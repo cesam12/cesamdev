@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang='pt-BR'>
+<head>
+  <meta charset='utf-8'/>
+  <meta name='viewport' content='width=device-width,initial-scale=1'/>
+  <title>Landing - Matheus</title>
+  <link rel='stylesheet' href='styles.css'/>
+</head>
+<body>
+  <header><h1>Serviços de Desenvolvimento</h1></header>
+  <main>
+    <section>
+      <p>Desenvolvedor em formação — projetos em Java, Node.js e Web.</p>
+    </section>
+    <section>
+      <form id='contact'>
+        <input name='name' placeholder='Seu nome' required />
+        <input name='email' placeholder='Seu email' required />
+        <textarea name='message' placeholder='Mensagem'></textarea>
+        <button type='submit'>Enviar</button>
+      </form>
+    </section>
+  </main>
+  <script>
+    document.getElementById('contact').addEventListener('submit', function(e){
+      e.preventDefault();
+      alert('Formulário enviado (simulação)');
+    });
+  </script>
+</body>
+</html>
