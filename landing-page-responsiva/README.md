@@ -1,5 +1,30 @@
-# Landing Page Responsiva
+# 🎨 Landing Page Responsiva (HTML, CSS e JavaScript)
 
-Página estática em HTML/CSS/JS com formulário que envia dados para uma API (simulada).
+Este projeto é uma landing page moderna e responsiva, desenvolvida para praticar conceitos fundamentais de **HTML**, **CSS** e **JavaScript**, incluindo organização de layout, responsividade e boas práticas de front-end.
 
-Como usar: abrir index.html no navegador ou servir com um servidor estático.
+---
+
+## 🚀 Funcionalidades
+
+- Layout 100% responsivo
+- Design moderno e estruturado
+- Menu superior com navegação
+- Sessão de destaque com chamada para ação
+- Sessões para apresentação de serviços e informações
+- Rodapé estilizado
+- CSS organizado e simples
+- JavaScript para interação básica
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Git / GitHub**
+
+---
+
+## 📂 Estrutura do Projeto
+
