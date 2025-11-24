@@ -1,15 +1,29 @@
-# API REST de Usuários
+# 🌐 API REST de Usuários (Node.js + Express)
 
-Simples API em Node.js + Express com SQLite para demonstrar endpoints de CRUD.
+Esta é uma API REST simples desenvolvida em **Node.js** utilizando o framework **Express**.  
+O objetivo é praticar rotas HTTP, estrutura de projeto, uso do Nodemon e conceitos de backend.
 
-Como rodar:
+---
 
-1. `npm install`
-2. `node index.js`
+## 🚀 Funcionalidades
 
-Endpoints:
-- GET /users
-- POST /users
-- GET /users/:id
-- PUT /users/:id
-- DELETE /users/:id
+- Criar usuários (`POST /usuarios`)
+- Listar todos os usuários (`GET /usuarios`)
+- Estrutura organizada para estudo
+- Servidor Node.js utilizando Express
+- Rotas separadas e preparadas para evolução futura
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Node.js**
+- **Express**
+- **Nodemon**
+- **JavaScript**
+- **Git / GitHub**
+
+---
+
+## 📂 Estrutura do Projeto
+
